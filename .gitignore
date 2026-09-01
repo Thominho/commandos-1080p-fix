@@ -1,0 +1,4 @@
+# nothing generated locally belongs in the repo
+*.log
+DDrawCompat-*.log
+_Commandos1080Fix_Backup/
